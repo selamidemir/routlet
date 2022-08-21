@@ -1,0 +1,37 @@
+.App {
+  width: 600px;
+  margin: 35px auto;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-link {
+  color: blue;
+}
+
+.user-link:hover {
+  text-decoration: none;
+  color: gray;
+}
+
+.app-name {
+  font-weight: 900;
+  font-size: 17px;
+  color:brown;
+}
+
+.nav-links a {
+  color: blue;
+  font-weight: 900;
+}
+
+.nav-links a:hover {
+  text-decoration: none;
+}
+
+.not-found {
+  color: red;
+}
